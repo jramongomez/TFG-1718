@@ -1,0 +1,11 @@
+{"listaFormulas":[
+                {"grupoFormula":"Peroxidos","nombreFormula":"Peróxido de dihidrógeno (Agua oxigenada)",
+                "enlaces":[
+                  {"atomo":"Hidrógeno","atomosEnlazados":["Oxígeno"]},
+                  {"atomo":"Hidrógeno","atomosEnlazados":["Oxígeno"]},
+                  {"atomo":"Oxígeno","atomosEnlazados":["Hidrógeno","Oxígeno"]},
+                  {"atomo":"Oxígeno","atomosEnlazados":["Hidrógeno","Oxígeno"]}
+                  ]
+                }
+                
+ ]}
