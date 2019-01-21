@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DE9173B2-58E8-2CF2-65D4-1F8EF341895B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BD/Inventario.json">
+    <Files>
+      <File FileName="Assets/BD/Inventario.json" Line="6" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TFG PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

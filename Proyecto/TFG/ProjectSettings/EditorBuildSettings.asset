@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4586f940ea4d740e884e81d905add1c8
+  - enabled: 1
+    path: Assets/Scenes/Ejercicios.unity
+    guid: 138c9c10661bd4c89ae7e605f602cbc8
+  - enabled: 1
+    path: Assets/Scenes/TablaPeriodica.unity
+    guid: 02933c057471e420fa74afc9e2d3e2fb
+  - enabled: 1
+    path: Assets/Scenes/Grupos/Alcalinos.unity
+    guid: 25915670c27624c0dacd0436881d4375
+  - enabled: 1
+    path: Assets/Scenes/Grupos/AlcalinoTerreos.unity
+    guid: a7bab751676524fca9dd14eb8d94d40c
+  - enabled: 1
+    path: Assets/Scenes/Grupos/MetalesTransicion.unity
+    guid: d93024ad561f74903a73750e262ba947
+  - enabled: 1
+    path: Assets/Scenes/Grupos/OtrosMetales.unity
+    guid: 5417118e0d04d4a5784f224477f3f936
+  - enabled: 1
+    path: Assets/Scenes/Grupos/Metaloides.unity
+    guid: 00c91cd5a63b34dc0972e60e6fcc0e1a
+  - enabled: 1
+    path: Assets/Scenes/Grupos/OtrosNoMetales.unity
+    guid: 28d28c307453c49a8a5d480c7d024f88
+  - enabled: 1
+    path: Assets/Scenes/Grupos/Halogenos.unity
+    guid: 3a7a8b3e723e14201a9120380b0a798d
+  - enabled: 1
+    path: Assets/Scenes/Grupos/GasesNobles.unity
+    guid: 64d2a4d7f281d40558f9204aaaedca84
+  - enabled: 1
+    path: Assets/Scenes/Grupos/Lantanidos.unity
+    guid: 57ca24468a0ce43f88290a493fbb635e
+  - enabled: 1
+    path: Assets/Scenes/Grupos/Actinidos.unity
+    guid: af4d3448866184692a60c61517f5824b
+  - enabled: 1
+    path: Assets/Scenes/Formulacion.unity
+    guid: 8599cfe60308b433c815227d11cdbb01

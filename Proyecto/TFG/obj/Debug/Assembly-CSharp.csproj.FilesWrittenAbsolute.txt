@@ -1,0 +1,101 @@
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/nunit.framework.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/LeapCSharp.NET3.5.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/AssetStoreToolsExtra.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/AssetStoreTools.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.Cecil.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/obj/Debug/Assembly-CSharp.dll
+/Users/jramongomez/Proyectos Unity/ProyectosLeap/Pruebas assets 3.0 LM/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jramongomez/Proyectos Unity/TFG/obj/Debug/Assembly-CSharp.dll
+/Users/jramongomez/Proyectos Unity/TFG/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/nunit.framework.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/LeapCSharp.NET3.5.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/AssetStoreToolsExtra.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/AssetStoreTools.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.Cecil.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jramongomez/Proyectos Unity/TFG/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
